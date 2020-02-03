@@ -1,0 +1,7 @@
+"Dear Heather"
+
+Dear Heather
+Please walk by me again
+With a drink in your hand
+And your legs all white
+From the winter

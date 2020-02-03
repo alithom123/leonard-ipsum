@@ -1,2 +1,2 @@
-# leonard-ipsum
-A lorem ipsum generator based on the lyrics of the late Leonard Cohen.
+# my-girlfriend-ipsum
+A Lorem Ipsum generator based on conversations with my girlfriend.
