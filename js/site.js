@@ -25,7 +25,7 @@ $(document).ready(function () {
         })
     }
 
-    toggleIpsum('#reload', 8, 8);
+    toggleIpsum('#submit', 8, 8);
     generateIpsum(8, 8);
 
 });
